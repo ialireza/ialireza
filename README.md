@@ -1,6 +1,7 @@
 # Hi there, I'm [AliReza](https://AliRezaMohammadiDoost.Ir)<img align="right" alt="Profile" src="https://avatars.githubusercontent.com/u/26402782?v=4" width="32" style="border-radius:10px">
 
-**I'm AliReza Mohammadi, an experienced Full Stack Web Developer with over 10 years experience in web app development**
+[comment]: <> (**I'm AliReza Mohammadi, an experienced Full Stack Web Developer with over 10 years experience in web app development**)
+**I'm AliReza Mohammadi, an experienced Full Stack Web Developer.**
 
 ## 🙋‍♂️ Connect with me
 
@@ -58,8 +59,8 @@
 ### 📊 Github stats
 ![Linux](https://github-readme-stats.vercel.app/api/top-langs/?username=ialireza&theme=nord)
 
-![Linux](https://github-readme-stats.vercel.app/api?username=ialireza&show_icons=true&theme=nord)
+[comment]: <> (![Linux]&#40;https://github-readme-stats.vercel.app/api?username=ialireza&show_icons=true&theme=nord&#41;)
 
-![Linux](https://github-readme-streak-stats.herokuapp.com/?user=ialireza&theme=nord)
+[comment]: <> (![Linux]&#40;https://github-readme-streak-stats.herokuapp.com/?user=ialireza&theme=nord&#41;)
 
-![ialireza github activity graph](https://activity-graph.herokuapp.com/graph?username=ialireza&theme=nord)
+[comment]: <> (![ialireza github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=ialireza&theme=nord&#41;)
